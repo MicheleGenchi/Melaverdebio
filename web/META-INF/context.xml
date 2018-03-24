@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/melaverdebiopool">
+  <Resource auth="Container" 
+            driverClassName="com.mysql.jdbc.Driver" 
+            maxActive="100" 
+            maxIdle="30" 
+            maxWait="100000" 
+            name="connpool" 
+            password="root" 
+            type="javax.sql.DataSource" 
+            url="jdbc:mysql://localhost:3306/melaverdebio?autoReconnect=true" 
+            username="root"/>
+</Context>
