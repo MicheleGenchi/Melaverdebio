@@ -48,5 +48,6 @@
                 }
             %>
         </table>
+        <a href="./index.jsp">HOMEPAGE</a>
     </body>
 </html>
